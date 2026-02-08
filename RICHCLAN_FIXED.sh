@@ -15,8 +15,8 @@ RESET="\033[0m"
 
 VERSION="1.0"
 # GitHub Raw Links (Yahan apne links dalein)
-UPDATE_URL="https://raw.githubusercontent.com/AapkaUser/repo/main/version.txt"
-SCRIPT_URL="https://raw.githubusercontent.com/AapkaUser/repo/main/RICHCLAN_FIXED.sh"
+UPDATE_URL="https://raw.githubusercontent.com/resetupdate37-hub/bgmi-update-tool/refs/heads/main/version.txt"
+SCRIPT_URL="https://raw.githubusercontent.com/resetupdate37-hub/bgmi-update-tool/3b6aaaa0c6daeb60e8022a780fdb1c1422268629/RICHCLAN_FIXED.sh"
 
 PKG="com.pubg.imobile"
 
